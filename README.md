@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/gnanendra0974%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gnanendra097/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/gnanendra097%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gnanendra097)
 </div>
 
 

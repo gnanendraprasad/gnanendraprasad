@@ -42,17 +42,15 @@
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
-  * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)<br>
-  * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)<br>
-  * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
+  * [AWS Cloud Practitioner](https://www.credly.com/badges/1f732044-d4c4-49cf-a1fb-7bfef988a69b/public_url)<br>
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Gnanendra Prasad's github stats](https://github-readme-stats.vercel.app/api?username=gnanendra097&show_icons=true&theme=react)](https://github.com/gnanendra097/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnanendra097&langs_count=8&layout=compact&theme=react)](https://github.com/gnanendra097/github-readme-stats)
+  [![Gnanendra Prasad's github stats](https://github-readme-stats.vercel.app/api?username=gpt097&show_icons=true&theme=react)](https://github.com/gpt097/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpt097&langs_count=8&layout=compact&theme=react)](https://github.com/gpt097/github-readme-stats)
 
 </details>
 <br>

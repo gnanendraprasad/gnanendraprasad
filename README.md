@@ -49,7 +49,7 @@
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  ![Gnanendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanendraprasad&hide=contribs,prs)
+  ![Gnanendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanendraprasad)
 
 </details>
 <br>

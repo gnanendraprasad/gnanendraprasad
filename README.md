@@ -49,8 +49,7 @@
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Gnanendra Prasad's github stats](https://github-readme-stats.vercel.app/api?username=gpt097&show_icons=true&theme=react)](https://github.com/gpt097/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpt097&langs_count=8&layout=compact&theme=react)](https://github.com/gpt097/github-readme-stats)
+  ![Gnanendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnanendraprasad&hide=contribs,prs)
 
 </details>
 <br>

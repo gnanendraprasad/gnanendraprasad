@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/arun664%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gnanendra097/)
+[![LinkedIn Link](https://img.shields.io/badge/linkedin/in/gnanendra0974%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gnanendra097/)
 </div>
 
 
@@ -42,8 +42,8 @@
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
-  * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)
-  * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
+  * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)<br>
+  * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)<br>
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
